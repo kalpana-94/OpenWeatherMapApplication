@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="hint_search_location">Search for a city</string>
+    <string name="weather_api_key">7b7bd76041b026df0bc79eefd11eabc5</string>
+</resources>
